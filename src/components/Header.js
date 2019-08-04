@@ -30,7 +30,7 @@ const Header = ({location}) => (
         }
         `}
     render={(data) => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('./images/dharmawheel100.png');
       const twitter = require('./images/twitter.svg');
       const {
         site: {
