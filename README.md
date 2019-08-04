@@ -1,14 +1,16 @@
-# gatsby-gitbook-starter
+# gatsby-bud
 
-Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
+An open source project that brings together teachings of the Buddha from various traditions. 
+
+We're thankful for the [Gatsby documentation template by Hasura](https://github.com/hasura/gatsby-gitbook-starter/).
 
 ![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
 
-## Motivation
+/* ## Motivation
 
 We wanted to create a [GraphQL tutorial](https://learn.hasura.io) series. The content would be written by developers for various languages/frameworks and what better than writing it in Markdown! And since this is a tutorial series we also needed rich embeds, syntax highlighting and more customisations.
 
-We also wanted to serve these tutorials in sub paths of [learn.hasura.io](https://learn.hasura.io). To serve all these requirements, we decided to use Gatsby + MDX (Markdown + JSX) to extend markdown and used a neat consistent theme like the one at [GitBook](https://www.gitbook.com) and deployed as docker containers.
+We also wanted to serve these tutorials in sub paths of [learn.hasura.io](https://learn.hasura.io). To serve all these requirements, we decided to use Gatsby + MDX (Markdown + JSX) to extend markdown and used a neat consistent theme like the one at [GitBook](https://www.gitbook.com) and deployed as docker containers. */
 
 ## 🔥 Features
 - Write using Markdown / [MDX](https://github.com/mdx-js/mdx)
@@ -30,9 +32,9 @@ Here's a [live demo](https://learn.hasura.io/graphql/react)
 Get started by running the following commands:
 
 ```
-$ git clone git@github.com:hasura/gatsby-gitbook-starter.git
+$ git clone git@github.com:buddhavacana/gatsby-bud.git
 $ npm install
-$ npm start
+$ gatsby develop
 ```
 
 Visit `http://localhost:8000/` to view the app.
@@ -95,5 +97,5 @@ Canonical URLs are generated automatically.
 
 ## ☁️ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hasura/gatsby-gitbook-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/buddhavacana/gatsby-bud)
 

@@ -1,14 +1,14 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://www.buddhavacana.org/",
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logo": "",
+		"logoLink": "https://www.buddhavacana.org/",
+		"title": "Buddhavacana",
+		"githubUrl": "https://github.com/buddhavacana/gatsby-bud",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -21,17 +21,17 @@ const config = {
     		"/codeblock"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "SuttaCentral", "link": "https://suttacentral.net/"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Buddhavacana",
+		"description": "Buddhavacana, teachings of the Buddha, Buddhist teachings",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"docsLocation": "https://github.com/buddhavacana/gatsby-bud/tree/master/content",
+		"favicon": ""
 	},
 };
 
