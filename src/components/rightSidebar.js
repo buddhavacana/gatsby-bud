@@ -110,15 +110,15 @@ const SidebarLayout = ({ location }) => (
       }
 
       if (finalNavItems && finalNavItems.length) {
-        return (
-          <Sidebar>
-            <ul className={'rightSideBarUL'}>
-              <div className={'rightSideTitle'}>CONTENTS</div>
-              {finalNavItems}
-            </ul>
-          </Sidebar>
-        );
-      } else {
+      //   return (
+      //     <Sidebar>
+      //       <ul className={'rightSideBarUL'}>
+      //         <div className={'rightSideTitle'}>CONTENTS</div>
+      //         {finalNavItems}
+      //       </ul>
+      //     </Sidebar>
+      //   );
+      // } else {
         return (
           <Sidebar>
             <ul></ul>
