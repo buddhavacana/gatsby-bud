@@ -18,7 +18,11 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+			"/theravada",
+			"/mahayana",
+			"/vajrayana",
+			"/suttas",
+			"/sutras"			
 		],
 		"links": [
 			{ "text": "SuttaCentral", "link": "https://suttacentral.net/"},
