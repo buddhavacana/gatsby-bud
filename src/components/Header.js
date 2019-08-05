@@ -85,7 +85,11 @@ const Header = ({location}) => (
                     <a href={'https://twitter.com/intent/tweet?&text=' + tweetText} target="_blank">
                       <img className={'twitterIcon'} src={twitter} alt={'Twitter'} />
                     </a>
-                   </li>) : null
+                   </li>) : null 
+                }
+                {(<li>
+                  <a href="http://blog.buddhavacana.org" target="_blank">Blog</a>
+                </li>)
                 }
                 {headerLinks.map((link, key) => {
                   if(link.link !== '' && link.text !== '') {
