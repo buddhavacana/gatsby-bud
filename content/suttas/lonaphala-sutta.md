@@ -1,5 +1,5 @@
 ---
-title: "Heart Sutra"
-metaTitle: "teachings from the Heart Sutra"
-metaDescription: "heart sutra"
+title: "Lonaphala Sutta"
+metaTitle: "Lonaphala Sutta, salt crystal"
+metaDescription: "lonaphala"
 ---
